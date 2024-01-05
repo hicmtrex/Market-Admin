@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Market-Admin](https://github.com/hicmtrex/Market-Admin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|12/21/23 <br/>Report generated|
+|30<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
